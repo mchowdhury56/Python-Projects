@@ -1,5 +1,5 @@
 # Python Projects
-Projects I have done in Python3 regarding various topics such as GUI implementation, machine learning, and webscraping. Projects I have worked on include:
+Projects I have done in Python3 regarding various topics including GUI implementation, machine learning, and web scraping. Projects I have worked on include:
 
 spaceshooter - a 2D shooter game made with pygame as the GUI.
 
